@@ -8,4 +8,4 @@ Nesta versão desenvolvemos um site onde deverá ser testada a visualização WE
 
 Integrantes do Grupo:
 
-Lucas Nikolas Marlon Pereira Choque, Luiz Fellipe Nunes da Silva, Maria Dina Savassini, Paulo José Bastos Castro, Vinícius da Silva Paula e William Antonio Silva
+Luiz Fellipe Nunes da Silva, Maria Dina Savassini, Vinícius da Silva Paula e William Antonio Silva
